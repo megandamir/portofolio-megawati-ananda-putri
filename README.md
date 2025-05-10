@@ -4,4 +4,4 @@
 ---
 #####  Jika ingin meliat CV saya anda bisa mengakse di sini: 
 ![CV](https://github.com/megandamir/portofolio-megawati-ananda-putri/blob/main/CV-pdf/CV_Megawati%20Ananda%20Putri%20%20(4).pdf)
-Terimak kasih 
+Terima kasih 
